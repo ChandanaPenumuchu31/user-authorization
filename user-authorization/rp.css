@@ -1,0 +1,144 @@
+body{
+background-color: black;
+}
+.rectangle{
+margin-left:500px;
+background-color: #ff5100;
+height:700px;
+width:500px;
+border-style:dotted;
+border-color:black;
+border-width:3px;
+border-radius:70px;
+}
+.login{
+background-color: ;
+height:50px;
+width:100px;
+background-color:#9EA4A3;
+border-color:green;
+border-width:2px;
+border-radius:20px;
+	
+}
+#uname{
+	margin-top:20px;
+	margin-left:50px;
+	font-size:20px;
+	
+}
+#u1name{
+	margin-top:20px;
+	margin-left:50px;
+	font-size:20px;
+	
+}
+#u2name{
+	margin-top:20px;
+	margin-left:50px;
+	font-size:20px;
+	
+}
+#pswd{
+	margin-left:50px;
+	margin-top:200px;
+	font-size:20px;
+}
+input[id=tex1]{
+	width:30%;
+	height:30px;
+	position:center;
+	margin-top:30px;
+	border-color:maroon;
+	border-width:3px;
+}
+input[id=tex3]{
+	width:30%;
+	height:30px;
+	position:center;
+	margin-top:30px;
+	border-color:maroon;
+	border-width:3px;
+}
+input[id=tex4]{
+	width:30%;
+	height:30px;
+	position:center;
+	margin-top:30px;
+	border-color:maroon;
+	border-width:3px;
+}
+input[id=tex2]{
+	width:30%;
+	height:30px;
+	position:center;
+	margin-top:30px;
+	border-color:maroon;
+	border-width:3px;
+}
+#ali{
+	position:center;
+
+}
+
+
+submit:hover{
+	color:yellow;
+}
+#con{
+	width:80%;
+	height:100px;
+	margin-left:50px;
+}
+.bin{
+	width:110px;
+	height:60px;
+	font-size:70px;
+	border-radius:25%;
+	font-size:18px;
+	border-style:solid;
+	border-width:2px;
+	border-color:black;
+}
+
+.conv{
+	height:80px;
+}
+th{
+	height:80px;
+}
+.dif{
+	width:90px;
+	height:90px;
+	border-style:solid;
+	border-width:2px;
+	border-color:black;
+	border-radius:100%;
+	background-color:black;
+	color:white;
+	opacity:0.8;
+	font-size:20px;
+}
+#num2{
+	width:80%;
+	height:100px;
+	margin-left:50px;
+}
+#im{
+	width:80px;
+	height:80px;
+	border-color:black;
+	border-radius:100%;
+	background-color:black;
+	color:white;
+	opacity:1;
+	font-size:20px;
+	
+}
+
+
+
+
+
+
+
